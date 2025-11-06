@@ -21,7 +21,7 @@ Criar um painel simples de **monitoramento de dispositivos IoT** consumindo uma 
 ## 🧩 Rodando o Projeto
 ```bash
 npm install
-npm run mock
+npm run api
 npm start
 ```
 
